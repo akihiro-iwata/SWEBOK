@@ -78,7 +78,13 @@
 これらは、全てのステークホルダが特定されていること、ステークホルダの潜在的な要求(nature)が分析されていること、ステークホルダの要求が引き出されていることを前提としている。
 
 ### 2.3 Process Support and Management
-(ここに2.3の内容を記載)
+このセクションでは、要求プロセスで消費される必須のプロジェクトマネジメント資源に関して紹介する。
+ソフトウェア・エンジニアリング・知識エリアの最初のトピック(開始とスコープ定義)の為のコンテキストを確立する。
+その主要な目的は、
+
+This section introduces the project management resources required and consumed by the requirements process.
+It establishes the context for the first topic (Initiation and Scope Definition) of the Software Engineering Management KA. 
+Its principal purpose is to make the link between the process activities identified in 2.1 and the issues of cost, human resources, training, and tools.
 
 ### 2.4 Process Quality and Improvement
 (ここに2.4の内容を記載)
