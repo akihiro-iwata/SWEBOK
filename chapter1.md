@@ -46,11 +46,11 @@
 
 ---
 
-## Requirements Process
+## 要求プロセス(Requirements Process)
 この章では、要求の5つのトピック*1の導入として先ず要求プロセスを紹介し、ソフトウェア要求プロセスがどの様にソフトウェア・エンジニアリングプロセス全体の整合性を担保するかを説明する。  
 *1・・・要求の引き出し(elicitation), 分析(analysis), 仕様化(specification), 検証(validation)
   
-### 2.1 Process Models
+### 2.1 プロセスモデル(Process Models)
 このトピックの目的は、下記を理解することである。  
  - 要求プロセスは、ソフトウェアライフサイクルから独立した前処理ではなく、むしろライフサイクルを通して洗練され続けるプロジェクトの、初めに着手されるプロセスであるということ
  - 要求プロセスは、ソフトウェア要求を1つの構成要素として捉え、ソフトウェア・ライフサイクル・プロセスにおける他の構成要素と同様に、構成管理すること
@@ -59,7 +59,7 @@
 特に、このトピックは、難易度の高いプロジェクトや制約に対して、要求の引き出し,分析,仕様化,検証(Validation)がどの様に構成されるのか、に関係している。  
 また、このトピックは、マーケティングやフィージビリティ・スタディ(実行可能性の調査・研究)の様な要求プロセスへのインプットを提供するアクティビティも含んでいる。
 
-### 2.2 Process Actors
+### 2.2 プロセスの関係者(Process Actors)
 このトピックは、要求プロセスに参加する人々の役割を紹介する。  
 このプロセスは、基本的に学際的であり、各ステークホルダーのドメイン及びソフトウェア・エンジニアリングの間に、要求の専門家が介在することが必要である。  
 また、そのソフトウェアで利害関係にある人が、しばしば要求の専門家と共に影響を受けることがある。  
@@ -77,18 +77,22 @@
 全てのステークホルダーの要求を満たすことを不可能であり、主要なステークホルダが許容出来る予算・技術・規制及びその他の制約のトレードオフに関する交渉をすることは、ソフトウェア・エンジニアの仕事である。
 これらは、全てのステークホルダが特定されていること、ステークホルダの潜在的な要求(nature)が分析されていること、ステークホルダの要求が引き出されていることを前提としている。
 
-### 2.3 Process Support and Management
-このセクションでは、要求プロセスで消費される必須のプロジェクトマネジメント資源に関して紹介する。
-ソフトウェア・エンジニアリング・知識エリアの最初のトピック(開始とスコープ定義)の為のコンテキストを確立する。
-その主要な目的は、
-
-This section introduces the project management resources required and consumed by the requirements process.
-It establishes the context for the first topic (Initiation and Scope Definition) of the Software Engineering Management KA. 
-Its principal purpose is to make the link between the process activities identified in 2.1 and the issues of cost, human resources, training, and tools.
+### 2.3 プロセスの支援と管理(Process Support and Management)
+このセクションでは、要求プロセスで必須であり、プロセス内で消費されるプロジェクトマネジメント資源を紹介する。
+このセクションは、「ソフトウェア・エンジニアリング知識エリア(第7章)」の最初のトピック(開始とスコープ定義)のコンテキストを確立する。
+このセクションの主要な目的は、2.1(Process Model)で特定したプロセス・アクティビティと、予算,人的資源,トレーニング,ツールに関する問題との関連性を明らかにすることである。
 
 ### 2.4 Process Quality and Improvement
-(ここに2.4の内容を記載)
+このトピックは、要求プロセスの品質評価と改善に関して述べている。  
+このトピックの主要な目的は、ソフトウェア製品の予算,適時性と顧客の満足度に対する要求の役割を強調することである。  
 
+This topic is concerned with the assessment of the quality and improvement of the requirements process.
+Its purpose is to emphasize the key role the requirements process plays in terms of the cost and timeliness of a software product and of the customer’s satisfaction with it. 
+It will help to orient the requirements process with quality standards and process improvement models for software and systems. Process quality and improvement is closely related to both the Software Quality KA and Software Engineering Process KA, comprising
+• requirements process coverage by process improvement standards and models;
+• requirements process measures and benchmarking;
+• improvement planning and implementation;
+• security/CIA improvement/planning and implementation.
 
 
 
