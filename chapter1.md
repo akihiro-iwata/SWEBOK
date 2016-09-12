@@ -79,21 +79,19 @@
 
 ### 2.3 プロセスの支援と管理(Process Support and Management)
 このセクションでは、要求プロセスで必須であり、プロセス内で消費されるプロジェクトマネジメント資源を紹介する。
-このセクションは、「ソフトウェア・エンジニアリング知識エリア(第7章)」の最初のトピック(開始とスコープ定義)のコンテキストを確立する。
+このセクションは、「ソフトウェア・エンジニアリング知識領域(第7章)」の最初のトピック(開始とスコープ定義)のコンテキストを確立する。
 このセクションの主要な目的は、2.1(Process Model)で特定したプロセス・アクティビティと、予算,人的資源,トレーニング,ツールに関する問題との関連性を明らかにすることである。
 
-### 2.4 Process Quality and Improvement
+### 2.4 プロセスの質と改善(Process Quality and Improvement)
 このトピックは、要求プロセスの品質評価と改善に関して述べている。  
-このトピックの主要な目的は、ソフトウェア製品の予算,適時性と顧客の満足度に対する要求の役割を強調することである。  
-
-This topic is concerned with the assessment of the quality and improvement of the requirements process.
-Its purpose is to emphasize the key role the requirements process plays in terms of the cost and timeliness of a software product and of the customer’s satisfaction with it. 
-It will help to orient the requirements process with quality standards and process improvement models for software and systems. Process quality and improvement is closely related to both the Software Quality KA and Software Engineering Process KA, comprising
-• requirements process coverage by process improvement standards and models;
-• requirements process measures and benchmarking;
-• improvement planning and implementation;
-• security/CIA improvement/planning and implementation.
-
+このトピックの主要な目的は、ソフトウェア製品の予算,適時性と顧客の満足度に対する、要求の役割を強調することである。  
+これは、要求プロセスの内、「品質標準」と「ソフトウェア,システムのプロセス改善モデル」の位置づけの明確化に役立つ。  
+また、このトピックは、「ソフトウェア品質知識領域(第10章)」及び「ソフトウェア・エンジニアリング・プロセス知識エリア(第8章)」の両方と密接に関係しており、下記の4つから構成される。
+ - プロセス改善標準,モデルに覆われた要求プロセス
+ - 要求プロセスの測定とベンチマーク
+ - 改善計画と実装
+ - セキュリティ(CIA*1)改善/計画と実装  
+*1・・・C：Confidentiality(秘密性), I：Integrity(完全性), A：Availability(可用性)
 
 
 
