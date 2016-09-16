@@ -20,6 +20,12 @@
   - よって"要求エンジニア"という用語も使用しない。代わりに"ソフトウェアエンジニア"、"要求スペシャリスト"などの用語を使用する。
 - これから示すソフトウェア要求のブレイクダウンは、ともすればWater Fallを連想させるかもしれない。川下りだけに。
   - これを防ぐため、topic 2の"要求プロセス"にて、そのプロセスにて扱う資源と制約と、それをどのように設定するのかを示します。(???)
+  
+## ソフトウェア要求のトピック分類(BREAKDOWN OF TOPICS FOR SOFTWARE REQUIREMENTS)
+ソフトウェア要求知識領域のトピック分類は、下記の図に示した通りである。  
+  
+![Figure1.1 Breakdown of Topics for Software Requirements KA](./Figure1.1(Breakdown_of_Topics_for_Software_Requirements_KA)_ja.png "Figure1.1 Breakdown of Topics for Software Requirements KA")
+<div style="text-align: center;">Figure1.1 Breakdown of Topics for Software Requirements KA</div>
 
 ## ソフトウェア要求の知識領域に関わるトピック(Breakdown of Topics for the Software Requirements KA)
 ### ソフトウェア要求の定義(Definition of a Software Requirements)
