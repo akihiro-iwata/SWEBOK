@@ -1,5 +1,17 @@
 #Software Requirements
 
+### ACRONYMS
+|**頭字語**|**説明**|
+|:--:|:--|
+|**CIA**|**Confidentiality, Integrity, and Availability**<br>[OECD(経済協力開発機構)](http://www.oecd.org/)が策定した情報セキュリティガイドラインで示されていた、"情報セキュリティ3大要素"のこと。それぞれ「機密性」（Confidentiality）、「完全性」（Integrity）、「可用性」（Availability）を指す。 |
+|**DAG**|**Directed Acyclic Graph**<br>[有向非巡回グラフ](https://ja.wikipedia.org/wiki/%E6%9C%89%E5%90%91%E9%9D%9E%E5%B7%A1%E5%9B%9E%E3%82%B0%E3%83%A9%E3%83%95)。グラフ理論における閉路のない有向グラフのこと。|
+|**FSM**|**Functional Size Measurement**<br>機能の数や複雑度により、ソフトウェアの規模を測定する手法。[ISO/IEC 14143-1:2006](http://www.iso.org/iso/catalogue_detail.htm?csnumber=60176)として標準化されている。|
+|**INCOSE**|**International Council on Systems Engineering**<br>学際的なアプローチの実践応用と複雑なシステムの実現を可能とする方法を進展させることを目的とし，また，産業界，学際組織，政府機関における世界規模のSEの定義，理解，実践を進めているシステムエンジニアのための国際的な専門組織。<br>[INCOSE](http://www.incose.org/)|
+|**UML**|**Unified Modeling Language**<br>主にオブジェクト指向分析や設計のための、記法の統一がはかられたモデリング言語。<br>[UML](http://www.uml.org/)|
+|**SysML**|**Systems Modeling Language**<br>システムズエンジニアリングのためのドメイン固有モデリング言語である。各種システムや「システムのシステム」の仕様記述、分析、設計、検証、評価に使うことができる。<br>[SysML](http://sysml.org/)|
+
+---
+
 ## INTRO
 - この章では、ソフトウェアライフサイクルの全体にて行われる、ソフトウェア要求の引き出し、分析、仕様化及び要件自体の検証(バリデーション)をついて扱う。
 - ソフトウェア要求とは、課題解決に寄与するプロダクトの条件(needs)と制約(constraints)を表している
@@ -8,6 +20,12 @@
   - よって"要求エンジニア"という用語も使用しない。代わりに"ソフトウェアエンジニア"、"要求スペシャリスト"などの用語を使用する。
 - これから示すソフトウェア要求のブレイクダウンは、ともすればWater Fallを連想させるかもしれない。川下りだけに。
   - これを防ぐため、topic 2の"要求プロセス"にて、そのプロセスにて扱う資源と制約と、それをどのように設定するのかを示します。(???)
+  
+## ソフトウェア要求のトピック分類(BREAKDOWN OF TOPICS FOR SOFTWARE REQUIREMENTS)
+ソフトウェア要求知識領域のトピック分類は、下記の図に示した通りである。  
+  
+![Figure1.1 Breakdown of Topics for Software Requirements KA](./Figure1.1(Breakdown_of_Topics_for_Software_Requirements_KA)_ja.png "Figure1.1 Breakdown of Topics for Software Requirements KA")
+<div style="text-align: center;">Figure1.1 Breakdown of Topics for Software Requirements KA</div>
 
 ## ソフトウェア要求の知識領域に関わるトピック(Breakdown of Topics for the Software Requirements KA)
 ### ソフトウェア要求の定義(Definition of a Software Requirements)
