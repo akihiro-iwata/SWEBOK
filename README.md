@@ -1,6 +1,6 @@
-# SWEBOK v3.0 - Japanese Translation
+![SWEBOK_logo_v2.jpg](./SWEBOK_logo_v2.jpg)
 
----
+# SWEBOK v3.0 - Japanese Translation
 
 ## Project Overview
 本プロジェクトは、[SWEBOK v3.0](https://www.computer.org/web/swebok/v3)の非公式日本語翻訳です。  
@@ -12,5 +12,7 @@ SWEBoKは、[IEEE Computer Society](https://www.computer.org/web/guest/)によ�
 2016年現在の最新版であるSWEBoK v3.0の原書は[こちら](https://www.computer.org/web/swebok/index)から入手出来ます。　　
 
 ## Table of Contents
-1. [Introduction to the Guide](/chapter0.md)
-2. [Chapter1: Software Requirements](/chapter1.md)
+ - [序文](/00__FOREWORD.md)
+ 
+1. [SWEBOKガイド入門](/chapter0.md)
+2. [第1章：ソフトウェア要求](/chapter1.md)
