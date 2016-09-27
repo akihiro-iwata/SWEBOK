@@ -12,7 +12,8 @@ SWEBoKは、[IEEE Computer Society](https://www.computer.org/web/guest/)によ�
 2016年現在の最新版であるSWEBoK v3.0の原書は[こちら](https://www.computer.org/web/swebok/index)から入手出来ます。　　
 
 ## Table of Contents
- - [序文](/00__FOREWORD.md)
+ - [序文](/01__FOREWORD.md)
+ - [2004年版 序文](/02__FOREWORD_TO_THE_2004_EDITION.md)
  
 1. [SWEBOKガイド入門](/chapter0.md)
 2. [第1章：ソフトウェア要求](/chapter1.md)
