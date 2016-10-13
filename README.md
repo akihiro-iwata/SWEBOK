@@ -14,6 +14,7 @@ SWEBoKは、[IEEE Computer Society](https://www.computer.org/web/guest/)によ�
 ## Table of Contents
  - [序文](/01__FOREWORD.md)
  - [2004年版 序文](/02__FOREWORD_TO_THE_2004_EDITION.md)
+ - [SWEBOKガイド導入](/03__INTRODUCTION_TO_THE_GUIDE.md)
  
 1. [SWEBOKガイド入門](/chapter0.md)
 2. [第1章：ソフトウェア要求](/chapter1.md)
